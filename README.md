@@ -34,6 +34,41 @@ Aotearoa Is Home is a responsive web application designed to support internation
 - Test Execution Reports
 - Testing Evidence
 
+
+## 📂 Testing Documentation
+
+### 1. Test Plan
+[View Test Plan](<Test%20Plan(Aotearoa%20Is%20Home).docx>)
+
+### 2. Test Execution Report
+[View Test Execution Report](<Test%20Execution%20Report_Aotearoa%20Is%20Home.pdf>)
+
+### 3. Defect Log
+[View Defect Log](<Defect%20Log%20Sheet_Aotearoa%20Is%20Home.docx>)
+
+### 4. Test Summary Report
+[View Test Summary Report](<Test%20Summary%20Report_Aotearoa%20Is%20Home.docx>)
+
+
+## 📊 Testing Experience
+
+- Project: Aotearoa Is Home
+- Methodology: Agile Scrum
+- Development Sprints: 4
+- Testing Approach: Manual Black-Box Testing
+- Documented Test Conditions: 33
+- Testing Levels: Component, Integration and System
+
+### Features Tested
+- User Registration and Login
+- Role-Based Access
+- Settlement Information
+- Personalised Settlement Checklist
+- Event Management
+- Community Posts
+- Search Functionality
+- FAQ Chatbot
+
 ## Tools and Technologies
 
 GitHub | ASP.NET Core | SQL Server | Agile Scrum
